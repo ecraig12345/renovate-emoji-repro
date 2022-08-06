@@ -5,3 +5,7 @@ If any pull request description in a repo contains an emoji modifier character t
 Sample PR to show issue: https://github.com/ecraig12345/renovate-emoji-repro/pull/2
 
 NOTE: The project's dependencies aren't relevant for this issue, so I just added one dependency on an outdated `typescript` version.
+
+## `test heading`
+
+## test heading! again!!
